@@ -4,11 +4,11 @@
     {
       "name": "Celeste",
       "sources": [
-        "https://i.imgur.com/CmVLjxk",
+        "https://i.imgur.com/CmVLjxk.png",
         ""
       ],
-      "x": 236,
-      "y": 75
+      "x": 235,
+      "y": 76
     }
   ],
   "whitelist": [],
