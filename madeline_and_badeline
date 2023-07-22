@@ -1,0 +1,16 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Celeste",
+      "sources": [
+        "https://i.imgur.com/CmVLjxk",
+        ""
+      ],
+      "x": 236,
+      "y": 75
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
